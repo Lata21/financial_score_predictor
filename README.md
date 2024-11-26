@@ -24,8 +24,7 @@ This project is a **Streamlit** app that allows users to calculate their **finan
 #### Backend (FastAPI):
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/financial-score-app.git
-   cd financial-score-app
+   git clone https://github.com/Lata21/financial_score_predictor.git
    ```
 
 2. Create a virtual environment:
